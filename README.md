@@ -12,11 +12,11 @@ I'm a 2nd year undergraduate at Instituto de Matemática e Estatística da Unive
   
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=BussaBler&theme=dark&show_icons=true&count_private=true" />
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=francisconassif&theme=dark&hide_border=false" /> 
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=BussaBler&theme=dark&hide_border=false" /> 
 </td>
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=francisconassif&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=BussaBler&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
   
   </td>
 </tr>
@@ -24,11 +24,8 @@ I'm a 2nd year undergraduate at Instituto de Matemática e Estatística da Unive
 
 h3 align="center">Connect with me:</h3>
 <p align="center">
-  <a href="https://linkedin.com/in/franciscomembrive" target="blank">
-    <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="franciscomembrive" height="50" width="50" />
-  </a>
-  <a href="mailto:membrive1786@yahoo.com.br" target="blank">
-    <img align="center" src="https://cdn.icon-icons.com/icons2/1488/PNG/512/5308-yahoo_102577.png" alt="email" height="50" width="50" />
+  <a href="https://www.linkedin.com/in/pedro-bussab-a30573314/" target="blank">
+    <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="BussaBler" height="50" width="50" />
   </a>
 </p>
 
