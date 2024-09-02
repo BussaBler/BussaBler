@@ -2,7 +2,7 @@
 
 **`Computer Science Undergraduate`**
 
-I'm a 2nd year undergraduate at Instituto de Matemática e Estatística da Universidade de São Paulo (IME - USP) that has a interest in software engineering and game engines.
+I'm a 2nd year undergraduate at Instituto de Matemática e Estatística da Universidade de São Paulo (IME - USP) that has an interest in software engineering and game engines.
 
 <h3 align="center">My Statistics:</h3>
 <p align="center">
@@ -57,5 +57,5 @@ I'm a 2nd year undergraduate at Instituto de Matemática e Estatística da Unive
   </a>
 </p>
 
-p align="center">Credits: https://github.com/Scar1109</p>
+<p align="center">Credits: https://github.com/Scar1109</p>
 <p align="center"><a href="https://github.com/Scar1109"></a></p>
