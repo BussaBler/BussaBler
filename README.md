@@ -41,7 +41,7 @@ I'm a 2nd year undergraduate at Instituto de Matemática e Estatística da Unive
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" alt="cplusplus" width="50" height="50"/>
   </a>
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Light.svg" alt="java" width="50" height="50"/>
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" alt="java" width="50" height="50"/>
   </a>
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" alt="vscode" width="50" height="50"/>
@@ -56,3 +56,6 @@ I'm a 2nd year undergraduate at Instituto de Matemática e Estatística da Unive
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LaTeX-Dark.svg" alt="latex" width="50" height="50"/>
   </a>
 </p>
+
+p align="center">Credits: https://github.com/Scar1109</p>
+<p align="center"><a href="https://github.com/Scar1109"></a></p>
