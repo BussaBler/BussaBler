@@ -33,36 +33,17 @@ I'm a 3rd year undergraduate at Instituto de Matemática e Estatística da Unive
 ---
 
 <h3 align="center">Languages and Tools:</h3>
+
 <p align="center"> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/C.svg" alt="c" width="50" height="50"/>
-  </a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CPP.svg" alt="cplusplus" width="50" height="50"/>
-  </a>
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CS.svg" alt="csharp" width="50" height="50"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg" alt="java" width="50" height="50"/>
-  </a>
-</p>
-<p align="center">
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VSCode-Dark.svg" alt="vscode" width="50" height="50"/>
-  </a>
-  <a href="https://visualstudio.microsoft.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VisualStudio-Dark.svg" alt="visualstudio" width="50" height="50"/>
-  </a>
-  <a href="https://www.vulkan.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/vulkan/C41E3A" alt="vulkan" width="50" height="50"/>
-  </a>
-  <a href="https://devblogs.microsoft.com/directx/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Windows-Dark.svg" alt="dx12" width="50" height="50"/>
-  </a>
-  <a href="https://developer.apple.com/metal/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Apple-Dark.svg" alt="metal" width="50" height="50"/>
-  </a>
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/C.svg" alt="c" width="50" height="50"/></a> 
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CPP.svg" alt="cplusplus" width="50" height="50"/></a>
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CS.svg" alt="csharp" width="50" height="50"/></a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg" alt="java" width="50" height="50"/></a>
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VSCode-Dark.svg" alt="vscode" width="50" height="50"/></a>
+  <a href="https://visualstudio.microsoft.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VisualStudio-Dark.svg" alt="visualstudio" width="50" height="50"/></a>
+  <a href="https://www.vulkan.org/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/vulkan/C41E3A" alt="vulkan" width="50" height="50"/></a>
+  <a href="https://devblogs.microsoft.com/directx/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Windows-Dark.svg" alt="dx12" width="50" height="50"/></a>
+  <a href="https://developer.apple.com/metal/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Apple-Dark.svg" alt="metal" width="50" height="50"/></a>
 </p>
 
 <p align="center">Credits: https://github.com/Scar1109</p>
