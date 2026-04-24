@@ -46,6 +46,8 @@ I'm a 3rd year undergraduate at Instituto de Matemática e Estatística da Unive
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg" alt="java" width="50" height="50"/>
   </a>
+</p>
+<p align="center">
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VSCode-Dark.svg" alt="vscode" width="50" height="50"/>
   </a>
